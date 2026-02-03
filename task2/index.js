@@ -8,7 +8,6 @@ console.log("Hi , Welcome to JavaScript Training");
 console.log(500);
 console.warn(500);
 console.error(500);
-console.clear();
 
 //3. Data Type Identification
 let a1="Hello";
