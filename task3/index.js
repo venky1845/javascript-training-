@@ -184,7 +184,7 @@ switch(color){
     case ("green"):
         console.log("Go");
         break;
-    case ("default"):
+    default :
         console.log("Invalid signal");
         break;
 }
