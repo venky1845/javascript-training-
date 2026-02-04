@@ -122,6 +122,7 @@ let company={
 console.log(company.companyName);
 console.log(company.trainer.trainerName);
 console.log(company.trainer.trainerSubject)
+console.log(5!="5")
 
 
 
